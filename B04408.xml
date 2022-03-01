@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most excellent ballad of Ioseph the carpenter, and the sacred Virgin Mary, who was the mother of our Lord and Saviour Jesus Christ the ever blessed redeemer [of] man-kind.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04408</idno>
+            <idno type="STC">Wing M2880</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[232]</idno>
+            <idno type="EEBO-CITATION">99887724</idno>
+            <idno type="PROQUEST">ocm99887724</idno>
+            <idno type="VID">183388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183388)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[179])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most excellent ballad of Ioseph the carpenter, and the sacred Virgin Mary, who was the mother of our Lord and Saviour Jesus Christ the ever blessed redeemer [of] man-kind.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1663-1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Ioseph an aged man truly ..."</note>
+                  <note>Imperfect: cropped and torn affecting imprint and title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183388:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>A moſt Excellent Ballad of <hi>Joſeph</hi> Carpenter and the ſacred Virgin <hi>Mary,</hi> who was the Mother of our Lord and Saviour Jeſus Chriſt the ever bleſſed Redeemer Man-kind.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>IOſeph</hi> an aged man truly,</l>
+               <l>Did marry a Virgin fair and frée,</l>
+               <l>a purer Virgin did no man ſée,</l>
+               <l>then he choſe for his dear his dear.</l>
+            </lg>
+            <lg>
+               <l>This Virgin was pure, there was no nay,</l>
+               <l>The Angel <hi>Gabriel</hi> to her did ſay,</l>
+               <l>Thou ſhalt conceive a boy this day,</l>
+               <l>the which ſhall be our dear our dear.</l>
+            </lg>
+            <lg>
+               <l>No ſooner the Angel his meſſage had ſaid,</l>
+               <l>But all in her ſhe was afraid.</l>
+               <l>Now may this be? and I a pure maid,</l>
+               <l>ſay unto me my dear my dear,</l>
+            </lg>
+            <lg>
+               <l>The holy Ghoſt (<hi>Mary</hi>) ſhall come in thée,</l>
+               <l>The power of Heaven ſhall ſhadow thee,</l>
+               <l>And thou ſhalt hear a Son truly.</l>
+               <l>the which ſhall be our dear our dear,</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Joſeph</hi> being a perfect man,</l>
+               <l>Perceiving that <hi>Mary</hi> with Child was gone</l>
+               <l>Said tell me <hi>Mary</hi> now and anon.</l>
+               <l>who hath done this my dear my dear</l>
+            </lg>
+            <lg>
+               <l>Then anſwered <hi>Mary</hi> néek and mild</l>
+               <l>I know no Father to my Child,</l>
+               <l>But God alone, and I undefil'd,</l>
+               <l>he hath done this my dear my dear.</l>
+            </lg>
+            <lg>
+               <l>Yet (thinking <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e had been unjuſt,</l>
+               <l>Yielding her body to lawleſs luſt,</l>
+               <l>Out if his houſe he thought to thruſt,</l>
+               <l>his only love and Lady dear.</l>
+            </lg>
+            <lg>
+               <l>And ſo pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her from him quite,</l>
+               <l>Who was his joy and hearts delight,</l>
+               <l>That bleſſed Virgin fair and bright,</l>
+               <l>whom he did love ſo dear ſo dear.</l>
+            </lg>
+            <lg>
+               <l>And while in heart he thought the ſame</l>
+               <l>To him the Angel <hi>Gabriel</hi> came,</l>
+               <l>As he lay ſleeping on a Frame,</l>
+               <l>and coming to his dear his dear.</l>
+            </lg>
+            <lg>
+               <l>Who ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, fear not to take to thee,</l>
+               <l>Thy true and faithful wife <hi>Mary,</hi>
+               </l>
+               <l>Moſt true and conſtant ſure is ſhe,</l>
+               <l>turn not off thy dear thy dear.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Joſeph</hi> roſe from his ſleep ſo ſound,</l>
+               <l>His love to <hi>Mary</hi> did more abound,</l>
+               <l>He would not for a thouſand pound,</l>
+               <l>forſake his Love and Lady dear.</l>
+            </lg>
+            <lg>
+               <l>They lives both in joy and bliſs,</l>
+               <l>But then a ſtraight Commandment is,</l>
+               <l>Through <hi>Judea</hi> land no man ſhould is,</l>
+               <l>to go with h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Love and Lady dear.</l>
+            </lg>
+            <lg>
+               <l>Vnto the Temple where they were born,</l>
+               <l>And to the Emperor to be ſworn,</l>
+               <l>To pay a tribute duely known,</l>
+               <l>both for himſelf and Lady dear,</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Joſeph</hi> and his <hi>Mary</hi> free</l>
+               <l>Who lookt each hour delivered to be,</l>
+               <l>To <hi>Bethelem</hi> came that ſweet City,</l>
+               <l>with his true Love and Lady dear.</l>
+            </lg>
+            <lg>
+               <l>But when to <hi>Bethelem</hi> they were come,</l>
+               <l>The Inns were filled all and ſome,</l>
+               <l>When <hi>Joſeph</hi> intreating every groom,</l>
+               <l>could get no bed for his dear his dear</l>
+            </lg>
+            <lg>
+               <l>Then was he conſtrained preſently,</l>
+               <l>Within the Stable all night to lye,</l>
+               <l>Wherein they did Oxen and Aſſes tye,</l>
+               <l>with his true love and Lady dear.</l>
+            </lg>
+            <lg>
+               <l>The Virgin fair thought it no ſcorn,</l>
+               <l>To lye in ſuch a place forlorn,</l>
+               <l>Which night ſhe had a young-son born,</l>
+               <l>even Ieſus Chriſt our dear our dear.</l>
+            </lg>
+            <lg>
+               <l>Thou King of Peace, in <hi>Bethelem</hi> born</l>
+               <l>That wore for our ſake a crown of thorn,</l>
+               <l>Preſerve King <hi>Charles</hi> evening and morn,</l>
+               <l>whom <hi>England</hi> Loves ſo dear ſo dear.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
